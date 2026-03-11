@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "text": "Tu dois préparer un exposé important avec deux camarades.",
+    "options": [
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ton équipe a perdu un match alors qu’elle était favorite.",
+    "options": [
+      {
+        "k": "Sp",
+        "label": "Je tente un ajustement inhabituel pour relancer la dynamique."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à maintenir l’énergie collective et à soutenir le groupe."
+      },
+      {
+        "k": "Fb",
+        "label": "J’identifie précisément ce qui a provoqué la baisse de niveau."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur la prochaine action à gagner."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me reconnecte à l’objectif global pour ne pas réduire ce moment à l’erreur du jour."
+      },
+      {
+        "k": "Gt",
+        "label": "Je reviens à mes repères, à la consigne et à ce qui doit être exécuté proprement."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Tu reçois une critique publique sur un devoir, un projet ou une performance.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Un ami proche traverse une période compliquée et te parle de ses difficultés.",
+    "options": [
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Tu arrives dans un groupe que tu ne connais pas bien.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Bv",
+        "label": "Je regarde comment préserver l’ambiance, la confiance et la coopération."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Gt",
+        "label": "Je clarifie qui fait quoi et comment le groupe doit fonctionner."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Tu dois choisir entre plusieurs options pour ton orientation ou ton avenir.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je prends en compte les personnes qui me connaissent bien et leurs retours."
+      },
+      {
+        "k": "Gt",
+        "label": "Je compare les options les plus stables et les plus cohérentes avec mes contraintes."
+      },
+      {
+        "k": "Fb",
+        "label": "Je pèse soigneusement avantages, limites et risques de chaque piste."
+      },
+      {
+        "k": "Sp",
+        "label": "Je garde ouverte une voie moins classique si elle me stimule vraiment."
+      },
+      {
+        "k": "Vs",
+        "label": "Je réfléchis d’abord à la trajectoire de vie que je veux construire."
+      },
+      {
+        "k": "Cq",
+        "label": "Je choisis l’option qui me permet d’avancer concrètement sans me figer."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Un projet de groupe avance beaucoup trop lentement.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je regarde comment préserver l’ambiance, la confiance et la coopération."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Gt",
+        "label": "Je clarifie qui fait quoi et comment le groupe doit fonctionner."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Tu dois apprendre une compétence nouvelle en peu de temps.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Tu rates un geste simple pendant une compétition ou une présentation.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je me reconnecte à l’objectif global pour ne pas réduire ce moment à l’erreur du jour."
+      },
+      {
+        "k": "Sp",
+        "label": "Je tente un ajustement inhabituel pour relancer la dynamique."
+      },
+      {
+        "k": "Fb",
+        "label": "J’identifie précisément ce qui a provoqué la baisse de niveau."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à maintenir l’énergie collective et à soutenir le groupe."
+      },
+      {
+        "k": "Gt",
+        "label": "Je reviens à mes repères, à la consigne et à ce qui doit être exécuté proprement."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur la prochaine action à gagner."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Tu dois organiser un déplacement, une sortie ou un événement collectif.",
+    "options": [
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Quelqu’un dans ton groupe ne fait pas sa part du travail.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je clarifie qui fait quoi et comment le groupe doit fonctionner."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Bv",
+        "label": "Je regarde comment préserver l’ambiance, la confiance et la coopération."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Tu disposes d’une journée libre pour avancer sur un objectif important.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Une personne te demande conseil avant une décision importante.",
+    "options": [
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Tu dois reprendre un projet que quelqu’un d’autre a mal préparé.",
+    "options": [
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Tu publies quelque chose sur les réseaux sociaux et les réactions sont mitigées.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’effet sur les autres et à la qualité des échanges."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les retours pour distinguer ce qui est utile de ce qui ne l’est pas."
+      },
+      {
+        "k": "Cq",
+        "label": "Je réponds ou j’ajuste rapidement pour reprendre la main."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste un autre format, ton ou angle pour voir ce qui fonctionne mieux."
+      },
+      {
+        "k": "Vs",
+        "label": "Je regarde surtout l’image globale que je veux construire sur la durée."
+      },
+      {
+        "k": "Gt",
+        "label": "Je vérifie ce qui est cohérent avec ce que je veux montrer et avec mes règles."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Tu dois parler devant un groupe sans être totalement prêt.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je regarde comment préserver l’ambiance, la confiance et la coopération."
+      },
+      {
+        "k": "Gt",
+        "label": "Je clarifie qui fait quoi et comment le groupe doit fonctionner."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Un imprévu perturbe complètement ton planning.",
+    "options": [
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Tu as plusieurs idées en tête mais tu ne sais pas par où commencer.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Tu dois travailler avec quelqu’un qui fonctionne très différemment de toi.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Tu veux progresser rapidement dans une activité qui compte pour toi.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "On te propose de prendre la tête d’un petit groupe.",
+    "options": [
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Gt",
+        "label": "Je clarifie qui fait quoi et comment le groupe doit fonctionner."
+      },
+      {
+        "k": "Bv",
+        "label": "Je regarde comment préserver l’ambiance, la confiance et la coopération."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Tu dois gérer plusieurs demandes en même temps.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Tu sens qu’un camarade, collègue ou coéquipier se met en retrait.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Tu as une opportunité intéressante mais aussi risquée.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Tu sors d’une période de fatigue mentale et tu dois repartir.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Ton entraîneur, prof ou manager change une consigne au dernier moment.",
+    "options": [
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Tu dois convaincre d’autres personnes de te suivre sur une idée.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Une discussion se tend dans ton groupe.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je clarifie qui fait quoi et comment le groupe doit fonctionner."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Bv",
+        "label": "Je regarde comment préserver l’ambiance, la confiance et la coopération."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Tu dois construire une routine pour tenir sur plusieurs semaines.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Tu as peu d’informations mais il faut tout de même avancer.",
+    "options": [
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Tu constates que ton niveau actuel ne suffit plus pour l’objectif visé.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Tu veux aider ton groupe à mieux fonctionner ensemble.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je clarifie qui fait quoi et comment le groupe doit fonctionner."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Bv",
+        "label": "Je regarde comment préserver l’ambiance, la confiance et la coopération."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Tu reçois un retour très positif et soudain sur ton travail.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Une échéance approche et tu te sens encore incomplet.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Tu dois gérer ton téléphone et les réseaux pour rester concentré.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’effet sur les autres et à la qualité des échanges."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste un autre format, ton ou angle pour voir ce qui fonctionne mieux."
+      },
+      {
+        "k": "Gt",
+        "label": "Je vérifie ce qui est cohérent avec ce que je veux montrer et avec mes règles."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les retours pour distinguer ce qui est utile de ce qui ne l’est pas."
+      },
+      {
+        "k": "Vs",
+        "label": "Je regarde surtout l’image globale que je veux construire sur la durée."
+      },
+      {
+        "k": "Cq",
+        "label": "Je réponds ou j’ajuste rapidement pour reprendre la main."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "On te demande de prendre une décision rapide.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Tu prépares quelque chose d’important avec peu de moyens.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Tu observes qu’une habitude te freine depuis des mois.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Tu dois relancer ta motivation après un échec.",
+    "options": [
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Une personne compétente te contredit fermement.",
+    "options": [
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Tu entres dans une période d’examen, de tournoi ou de forte pression.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je me reconnecte à l’objectif global pour ne pas réduire ce moment à l’erreur du jour."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à maintenir l’énergie collective et à soutenir le groupe."
+      },
+      {
+        "k": "Gt",
+        "label": "Je reviens à mes repères, à la consigne et à ce qui doit être exécuté proprement."
+      },
+      {
+        "k": "Sp",
+        "label": "Je tente un ajustement inhabituel pour relancer la dynamique."
+      },
+      {
+        "k": "Fb",
+        "label": "J’identifie précisément ce qui a provoqué la baisse de niveau."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur la prochaine action à gagner."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Tu dois créer quelque chose d’original à partir d’un cadre imposé.",
+    "options": [
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Tu sens que le groupe manque d’énergie.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je clarifie qui fait quoi et comment le groupe doit fonctionner."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Bv",
+        "label": "Je regarde comment préserver l’ambiance, la confiance et la coopération."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Tu dois faire un choix entre qualité maximale et rapidité.",
+    "options": [
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Tu remarques un détail que les autres n’ont pas vu.",
+    "options": [
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Tu dois faire équipe avec une personne très ambitieuse.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Gt",
+        "label": "Je clarifie qui fait quoi et comment le groupe doit fonctionner."
+      },
+      {
+        "k": "Bv",
+        "label": "Je regarde comment préserver l’ambiance, la confiance et la coopération."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "Tu veux comprendre pourquoi tu répètes toujours la même erreur.",
+    "options": [
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Quelqu’un te demande de l’aide alors que toi aussi tu es chargé.",
+    "options": [
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "text": "Tu veux lancer un projet perso en parallèle de tes obligations.",
+    "options": [
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Une occasion inattendue se présente et tu dois réagir vite.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Tu dois annoncer une mauvaise nouvelle à un groupe.",
+    "options": [
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Gt",
+        "label": "Je clarifie qui fait quoi et comment le groupe doit fonctionner."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Bv",
+        "label": "Je regarde comment préserver l’ambiance, la confiance et la coopération."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "text": "Tu observes que tu t’éparpilles sur trop de sujets.",
+    "options": [
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "text": "Tu as le sentiment qu’on ne reconnaît pas tes efforts.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "text": "Tu dois remettre de l’ordre dans une situation confuse.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "text": "Tu veux prendre confiance avant un moment important.",
+    "options": [
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      },
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "text": "Tu es en désaccord avec une règle mais tu dois quand même avancer.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "text": "Tu dois choisir une manière de mesurer tes progrès.",
+    "options": [
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "text": "Tu veux faire passer un message important sans braquer l’autre.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je prends de la hauteur pour voir le sens global et la direction à donner."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure la situation avec une méthode claire pour sécuriser l’exécution."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite et je passe à l’action sans attendre davantage."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une piste originale ou inattendue pour débloquer la situation."
+      },
+      {
+        "k": "Bv",
+        "label": "Je me préoccupe surtout de l’impact sur les personnes et de la qualité du lien."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse les éléments disponibles avant de conclure."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "text": "Tu sens que tu peux viser plus haut qu’avant.",
+    "options": [
+      {
+        "k": "Bv",
+        "label": "Je cherche à rassurer, écouter et remettre de la coopération."
+      },
+      {
+        "k": "Gt",
+        "label": "Je définis un cadre simple et concret pour que chacun sache quoi faire."
+      },
+      {
+        "k": "Vs",
+        "label": "Je me demande surtout ce que cette situation peut devenir si elle est bien menée."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations pour distinguer l’essentiel du reste."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur le résultat à obtenir et sur le prochain pas utile."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche un angle créatif ou plus libre pour repartir autrement."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "text": "Tu termines une période intense et tu dois préparer la suivante.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je commence par me représenter ce que cette situation peut ouvrir pour la suite."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une approche différente pour créer un déclic ou une solution nouvelle."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets de l’ordre et je clarifie les étapes, les rôles ou les priorités."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche d’abord à comprendre précisément les faits pour éviter les erreurs."
+      },
+      {
+        "k": "Cq",
+        "label": "Je regarde immédiatement l’action la plus utile pour faire avancer les choses."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille d’abord à garder un climat humain sain et à soutenir les personnes impliquées."
+      }
+    ]
+  }
+]

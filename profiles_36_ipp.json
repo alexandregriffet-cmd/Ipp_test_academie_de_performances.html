@@ -1,0 +1,1438 @@
+[
+  {
+    "code": "Vs-Vs",
+    "name": "Architecte",
+    "dominant": "Vs",
+    "secondary": "Vs",
+    "description": "Le profil Architecte s’appuie d’abord sur une logique visionnaire : il voit loin, relie les idées et cherche une direction porteuse. Cette énergie secondaire ajoute de la vision, du sens et une capacité à prendre de la hauteur. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant projection, tout en colorant vos décisions avec projection.",
+    "strengths": [
+      "Une base forte en projection.",
+      "Une capacité naturelle à répondre au besoin de sens.",
+      "Une signature très nette et cohérente autour de projection.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "sens",
+      "progression",
+      "impact",
+      "cohérence intérieure",
+      "innovation"
+    ],
+    "stress_stages": [
+      "En tension légère, vous accélérez mentalement et vous projetez plusieurs scénarios en même temps.",
+      "En stress modéré, vous devenez plus impatient avec le court terme, les lenteurs et les détails jugés inutiles.",
+      "En stress élevé, vous pouvez imposer votre vision, décrocher du concret ou ressentir une forte frustration quand rien n’avance."
+    ],
+    "stress_actions": [
+      "Revenir à trois priorités concrètes pour les 24 prochaines heures.",
+      "Transformer une grande vision en une prochaine action simple et observable.",
+      "Chercher un allié plus structurant pour sécuriser l’exécution."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Vs-Cq",
+    "name": "Stratège",
+    "dominant": "Vs",
+    "secondary": "Cq",
+    "description": "Le profil Stratège s’appuie d’abord sur une logique visionnaire : il voit loin, relie les idées et cherche une direction porteuse. Cette énergie secondaire ajoute du mouvement, du courage décisionnel et un goût du passage à l’action. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant projection, tout en colorant vos décisions avec action.",
+    "strengths": [
+      "Une base forte en projection.",
+      "Une capacité naturelle à répondre au besoin de sens.",
+      "Un second appui en action qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "sens",
+      "progression",
+      "impact",
+      "cohérence intérieure",
+      "défi"
+    ],
+    "stress_stages": [
+      "En tension légère, vous accélérez mentalement et vous projetez plusieurs scénarios en même temps.",
+      "En stress modéré, vous devenez plus impatient avec le court terme, les lenteurs et les détails jugés inutiles.",
+      "En stress élevé, vous pouvez imposer votre vision, décrocher du concret ou ressentir une forte frustration quand rien n’avance."
+    ],
+    "stress_actions": [
+      "Revenir à trois priorités concrètes pour les 24 prochaines heures.",
+      "Transformer une grande vision en une prochaine action simple et observable.",
+      "Chercher un allié plus structurant pour sécuriser l’exécution."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Vs-Bv",
+    "name": "Inspirateur",
+    "dominant": "Vs",
+    "secondary": "Bv",
+    "description": "Le profil Inspirateur s’appuie d’abord sur une logique visionnaire : il voit loin, relie les idées et cherche une direction porteuse. Cette énergie secondaire ajoute de l’attention humaine, de l’écoute et le besoin de faire avancer sans casser le lien. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant projection, tout en colorant vos décisions avec relation.",
+    "strengths": [
+      "Une base forte en projection.",
+      "Une capacité naturelle à répondre au besoin de sens.",
+      "Un second appui en relation qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "sens",
+      "progression",
+      "impact",
+      "cohérence intérieure",
+      "harmonie"
+    ],
+    "stress_stages": [
+      "En tension légère, vous accélérez mentalement et vous projetez plusieurs scénarios en même temps.",
+      "En stress modéré, vous devenez plus impatient avec le court terme, les lenteurs et les détails jugés inutiles.",
+      "En stress élevé, vous pouvez imposer votre vision, décrocher du concret ou ressentir une forte frustration quand rien n’avance."
+    ],
+    "stress_actions": [
+      "Revenir à trois priorités concrètes pour les 24 prochaines heures.",
+      "Transformer une grande vision en une prochaine action simple et observable.",
+      "Chercher un allié plus structurant pour sécuriser l’exécution."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Vs-Fb",
+    "name": "Analyste stratégique",
+    "dominant": "Vs",
+    "secondary": "Fb",
+    "description": "Le profil Analyste stratégique s’appuie d’abord sur une logique visionnaire : il voit loin, relie les idées et cherche une direction porteuse. Cette énergie secondaire ajoute du discernement, de la précision et le souci de comprendre avant de conclure. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant projection, tout en colorant vos décisions avec analyse.",
+    "strengths": [
+      "Une base forte en projection.",
+      "Une capacité naturelle à répondre au besoin de sens.",
+      "Un second appui en analyse qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "sens",
+      "progression",
+      "impact",
+      "cohérence intérieure",
+      "justesse"
+    ],
+    "stress_stages": [
+      "En tension légère, vous accélérez mentalement et vous projetez plusieurs scénarios en même temps.",
+      "En stress modéré, vous devenez plus impatient avec le court terme, les lenteurs et les détails jugés inutiles.",
+      "En stress élevé, vous pouvez imposer votre vision, décrocher du concret ou ressentir une forte frustration quand rien n’avance."
+    ],
+    "stress_actions": [
+      "Revenir à trois priorités concrètes pour les 24 prochaines heures.",
+      "Transformer une grande vision en une prochaine action simple et observable.",
+      "Chercher un allié plus structurant pour sécuriser l’exécution."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Vs-Gt",
+    "name": "Bâtisseur",
+    "dominant": "Vs",
+    "secondary": "Gt",
+    "description": "Le profil Bâtisseur s’appuie d’abord sur une logique visionnaire : il voit loin, relie les idées et cherche une direction porteuse. Cette énergie secondaire ajoute du cadre, de la méthode et une capacité à stabiliser. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant projection, tout en colorant vos décisions avec structure.",
+    "strengths": [
+      "Une base forte en projection.",
+      "Une capacité naturelle à répondre au besoin de sens.",
+      "Un second appui en structure qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "sens",
+      "progression",
+      "impact",
+      "cohérence intérieure",
+      "stabilité"
+    ],
+    "stress_stages": [
+      "En tension légère, vous accélérez mentalement et vous projetez plusieurs scénarios en même temps.",
+      "En stress modéré, vous devenez plus impatient avec le court terme, les lenteurs et les détails jugés inutiles.",
+      "En stress élevé, vous pouvez imposer votre vision, décrocher du concret ou ressentir une forte frustration quand rien n’avance."
+    ],
+    "stress_actions": [
+      "Revenir à trois priorités concrètes pour les 24 prochaines heures.",
+      "Transformer une grande vision en une prochaine action simple et observable.",
+      "Chercher un allié plus structurant pour sécuriser l’exécution."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Vs-Sp",
+    "name": "Explorateur",
+    "dominant": "Vs",
+    "secondary": "Sp",
+    "description": "Le profil Explorateur s’appuie d’abord sur une logique visionnaire : il voit loin, relie les idées et cherche une direction porteuse. Cette énergie secondaire ajoute de la souplesse, de l’originalité et une capacité à ouvrir d’autres options. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant projection, tout en colorant vos décisions avec créativité.",
+    "strengths": [
+      "Une base forte en projection.",
+      "Une capacité naturelle à répondre au besoin de sens.",
+      "Un second appui en créativité qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "sens",
+      "progression",
+      "impact",
+      "cohérence intérieure",
+      "nouveauté"
+    ],
+    "stress_stages": [
+      "En tension légère, vous accélérez mentalement et vous projetez plusieurs scénarios en même temps.",
+      "En stress modéré, vous devenez plus impatient avec le court terme, les lenteurs et les détails jugés inutiles.",
+      "En stress élevé, vous pouvez imposer votre vision, décrocher du concret ou ressentir une forte frustration quand rien n’avance."
+    ],
+    "stress_actions": [
+      "Revenir à trois priorités concrètes pour les 24 prochaines heures.",
+      "Transformer une grande vision en une prochaine action simple et observable.",
+      "Chercher un allié plus structurant pour sécuriser l’exécution."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Cq-Vs",
+    "name": "Pionnier",
+    "dominant": "Cq",
+    "secondary": "Vs",
+    "description": "Le profil Pionnier s’appuie d’abord sur une logique conquérant : il avance, décide et transforme l’intention en mouvement. Cette énergie secondaire ajoute de la vision, du sens et une capacité à prendre de la hauteur. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant action, tout en colorant vos décisions avec projection.",
+    "strengths": [
+      "Une base forte en action.",
+      "Une capacité naturelle à répondre au besoin de efficacité.",
+      "Un second appui en projection qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "efficacité",
+      "dépassement",
+      "innovation"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à reprendre la main rapidement.",
+      "En stress modéré, vous devenez plus direct, plus tranché et moins patient avec ce qui ralentit.",
+      "En stress élevé, vous pouvez forcer, vous épuiser ou mettre de la pression autour de vous."
+    ],
+    "stress_actions": [
+      "Ralentir volontairement avant de décider.",
+      "Distinguer urgence réelle et impulsion d’agir.",
+      "Canaliser l’énergie vers une action utile plutôt que vers la précipitation."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Fb"
+      ],
+      "less_compatible": [
+        "Bv",
+        "Sp"
+      ]
+    }
+  },
+  {
+    "code": "Cq-Cq",
+    "name": "Performeur",
+    "dominant": "Cq",
+    "secondary": "Cq",
+    "description": "Le profil Performeur s’appuie d’abord sur une logique conquérant : il avance, décide et transforme l’intention en mouvement. Cette énergie secondaire ajoute du mouvement, du courage décisionnel et un goût du passage à l’action. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant action, tout en colorant vos décisions avec action.",
+    "strengths": [
+      "Une base forte en action.",
+      "Une capacité naturelle à répondre au besoin de efficacité.",
+      "Une signature très nette et cohérente autour de action.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "efficacité",
+      "dépassement"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à reprendre la main rapidement.",
+      "En stress modéré, vous devenez plus direct, plus tranché et moins patient avec ce qui ralentit.",
+      "En stress élevé, vous pouvez forcer, vous épuiser ou mettre de la pression autour de vous."
+    ],
+    "stress_actions": [
+      "Ralentir volontairement avant de décider.",
+      "Distinguer urgence réelle et impulsion d’agir.",
+      "Canaliser l’énergie vers une action utile plutôt que vers la précipitation."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Fb"
+      ],
+      "less_compatible": [
+        "Bv",
+        "Sp"
+      ]
+    }
+  },
+  {
+    "code": "Cq-Bv",
+    "name": "Leader mobilisateur",
+    "dominant": "Cq",
+    "secondary": "Bv",
+    "description": "Le profil Leader mobilisateur s’appuie d’abord sur une logique conquérant : il avance, décide et transforme l’intention en mouvement. Cette énergie secondaire ajoute de l’attention humaine, de l’écoute et le besoin de faire avancer sans casser le lien. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant action, tout en colorant vos décisions avec relation.",
+    "strengths": [
+      "Une base forte en action.",
+      "Une capacité naturelle à répondre au besoin de efficacité.",
+      "Un second appui en relation qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "efficacité",
+      "dépassement",
+      "harmonie"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à reprendre la main rapidement.",
+      "En stress modéré, vous devenez plus direct, plus tranché et moins patient avec ce qui ralentit.",
+      "En stress élevé, vous pouvez forcer, vous épuiser ou mettre de la pression autour de vous."
+    ],
+    "stress_actions": [
+      "Ralentir volontairement avant de décider.",
+      "Distinguer urgence réelle et impulsion d’agir.",
+      "Canaliser l’énergie vers une action utile plutôt que vers la précipitation."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Fb"
+      ],
+      "less_compatible": [
+        "Bv",
+        "Sp"
+      ]
+    }
+  },
+  {
+    "code": "Cq-Fb",
+    "name": "Compétiteur méthodique",
+    "dominant": "Cq",
+    "secondary": "Fb",
+    "description": "Le profil Compétiteur méthodique s’appuie d’abord sur une logique conquérant : il avance, décide et transforme l’intention en mouvement. Cette énergie secondaire ajoute du discernement, de la précision et le souci de comprendre avant de conclure. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant action, tout en colorant vos décisions avec analyse.",
+    "strengths": [
+      "Une base forte en action.",
+      "Une capacité naturelle à répondre au besoin de efficacité.",
+      "Un second appui en analyse qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "efficacité",
+      "dépassement",
+      "justesse"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à reprendre la main rapidement.",
+      "En stress modéré, vous devenez plus direct, plus tranché et moins patient avec ce qui ralentit.",
+      "En stress élevé, vous pouvez forcer, vous épuiser ou mettre de la pression autour de vous."
+    ],
+    "stress_actions": [
+      "Ralentir volontairement avant de décider.",
+      "Distinguer urgence réelle et impulsion d’agir.",
+      "Canaliser l’énergie vers une action utile plutôt que vers la précipitation."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Fb"
+      ],
+      "less_compatible": [
+        "Bv",
+        "Sp"
+      ]
+    }
+  },
+  {
+    "code": "Cq-Gt",
+    "name": "Capitaine",
+    "dominant": "Cq",
+    "secondary": "Gt",
+    "description": "Le profil Capitaine s’appuie d’abord sur une logique conquérant : il avance, décide et transforme l’intention en mouvement. Cette énergie secondaire ajoute du cadre, de la méthode et une capacité à stabiliser. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant action, tout en colorant vos décisions avec structure.",
+    "strengths": [
+      "Une base forte en action.",
+      "Une capacité naturelle à répondre au besoin de efficacité.",
+      "Un second appui en structure qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "efficacité",
+      "dépassement",
+      "stabilité"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à reprendre la main rapidement.",
+      "En stress modéré, vous devenez plus direct, plus tranché et moins patient avec ce qui ralentit.",
+      "En stress élevé, vous pouvez forcer, vous épuiser ou mettre de la pression autour de vous."
+    ],
+    "stress_actions": [
+      "Ralentir volontairement avant de décider.",
+      "Distinguer urgence réelle et impulsion d’agir.",
+      "Canaliser l’énergie vers une action utile plutôt que vers la précipitation."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Fb"
+      ],
+      "less_compatible": [
+        "Bv",
+        "Sp"
+      ]
+    }
+  },
+  {
+    "code": "Cq-Sp",
+    "name": "Challenger",
+    "dominant": "Cq",
+    "secondary": "Sp",
+    "description": "Le profil Challenger s’appuie d’abord sur une logique conquérant : il avance, décide et transforme l’intention en mouvement. Cette énergie secondaire ajoute de la souplesse, de l’originalité et une capacité à ouvrir d’autres options. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant action, tout en colorant vos décisions avec créativité.",
+    "strengths": [
+      "Une base forte en action.",
+      "Une capacité naturelle à répondre au besoin de efficacité.",
+      "Un second appui en créativité qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "efficacité",
+      "dépassement",
+      "nouveauté"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à reprendre la main rapidement.",
+      "En stress modéré, vous devenez plus direct, plus tranché et moins patient avec ce qui ralentit.",
+      "En stress élevé, vous pouvez forcer, vous épuiser ou mettre de la pression autour de vous."
+    ],
+    "stress_actions": [
+      "Ralentir volontairement avant de décider.",
+      "Distinguer urgence réelle et impulsion d’agir.",
+      "Canaliser l’énergie vers une action utile plutôt que vers la précipitation."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Fb"
+      ],
+      "less_compatible": [
+        "Bv",
+        "Sp"
+      ]
+    }
+  },
+  {
+    "code": "Bv-Vs",
+    "name": "Guide",
+    "dominant": "Bv",
+    "secondary": "Vs",
+    "description": "Le profil Guide s’appuie d’abord sur une logique bienveillant : il crée du lien, écoute et protège la dynamique humaine. Cette énergie secondaire ajoute de la vision, du sens et une capacité à prendre de la hauteur. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant relation, tout en colorant vos décisions avec projection.",
+    "strengths": [
+      "Une base forte en relation.",
+      "Une capacité naturelle à répondre au besoin de soutien.",
+      "Un second appui en projection qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "respect",
+      "lien",
+      "solidarité",
+      "équilibre humain",
+      "innovation"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à préserver le lien et à éviter la cassure.",
+      "En stress modéré, vous pouvez trop porter les autres ou vous oublier.",
+      "En stress élevé, vous absorbez les émotions, vous vous épuisez ou vous n’osez plus poser de limites."
+    ],
+    "stress_actions": [
+      "Nommer vos besoins avant de vouloir réparer ceux des autres.",
+      "Poser une limite claire sans culpabilité.",
+      "Différencier soutien, responsabilité partagée et sauvetage."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Vs"
+      ],
+      "less_compatible": [
+        "Cq",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Bv-Cq",
+    "name": "Protecteur actif",
+    "dominant": "Bv",
+    "secondary": "Cq",
+    "description": "Le profil Protecteur actif s’appuie d’abord sur une logique bienveillant : il crée du lien, écoute et protège la dynamique humaine. Cette énergie secondaire ajoute du mouvement, du courage décisionnel et un goût du passage à l’action. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant relation, tout en colorant vos décisions avec action.",
+    "strengths": [
+      "Une base forte en relation.",
+      "Une capacité naturelle à répondre au besoin de soutien.",
+      "Un second appui en action qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "respect",
+      "lien",
+      "solidarité",
+      "équilibre humain",
+      "défi"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à préserver le lien et à éviter la cassure.",
+      "En stress modéré, vous pouvez trop porter les autres ou vous oublier.",
+      "En stress élevé, vous absorbez les émotions, vous vous épuisez ou vous n’osez plus poser de limites."
+    ],
+    "stress_actions": [
+      "Nommer vos besoins avant de vouloir réparer ceux des autres.",
+      "Poser une limite claire sans culpabilité.",
+      "Différencier soutien, responsabilité partagée et sauvetage."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Vs"
+      ],
+      "less_compatible": [
+        "Cq",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Bv-Bv",
+    "name": "Médiateur",
+    "dominant": "Bv",
+    "secondary": "Bv",
+    "description": "Le profil Médiateur s’appuie d’abord sur une logique bienveillant : il crée du lien, écoute et protège la dynamique humaine. Cette énergie secondaire ajoute de l’attention humaine, de l’écoute et le besoin de faire avancer sans casser le lien. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant relation, tout en colorant vos décisions avec relation.",
+    "strengths": [
+      "Une base forte en relation.",
+      "Une capacité naturelle à répondre au besoin de soutien.",
+      "Une signature très nette et cohérente autour de relation.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "respect",
+      "lien",
+      "solidarité",
+      "équilibre humain",
+      "harmonie"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à préserver le lien et à éviter la cassure.",
+      "En stress modéré, vous pouvez trop porter les autres ou vous oublier.",
+      "En stress élevé, vous absorbez les émotions, vous vous épuisez ou vous n’osez plus poser de limites."
+    ],
+    "stress_actions": [
+      "Nommer vos besoins avant de vouloir réparer ceux des autres.",
+      "Poser une limite claire sans culpabilité.",
+      "Différencier soutien, responsabilité partagée et sauvetage."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Vs"
+      ],
+      "less_compatible": [
+        "Cq",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Bv-Fb",
+    "name": "Accompagnant",
+    "dominant": "Bv",
+    "secondary": "Fb",
+    "description": "Le profil Accompagnant s’appuie d’abord sur une logique bienveillant : il crée du lien, écoute et protège la dynamique humaine. Cette énergie secondaire ajoute du discernement, de la précision et le souci de comprendre avant de conclure. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant relation, tout en colorant vos décisions avec analyse.",
+    "strengths": [
+      "Une base forte en relation.",
+      "Une capacité naturelle à répondre au besoin de soutien.",
+      "Un second appui en analyse qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "respect",
+      "lien",
+      "solidarité",
+      "équilibre humain",
+      "justesse"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à préserver le lien et à éviter la cassure.",
+      "En stress modéré, vous pouvez trop porter les autres ou vous oublier.",
+      "En stress élevé, vous absorbez les émotions, vous vous épuisez ou vous n’osez plus poser de limites."
+    ],
+    "stress_actions": [
+      "Nommer vos besoins avant de vouloir réparer ceux des autres.",
+      "Poser une limite claire sans culpabilité.",
+      "Différencier soutien, responsabilité partagée et sauvetage."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Vs"
+      ],
+      "less_compatible": [
+        "Cq",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Bv-Gt",
+    "name": "Soutien",
+    "dominant": "Bv",
+    "secondary": "Gt",
+    "description": "Le profil Soutien s’appuie d’abord sur une logique bienveillant : il crée du lien, écoute et protège la dynamique humaine. Cette énergie secondaire ajoute du cadre, de la méthode et une capacité à stabiliser. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant relation, tout en colorant vos décisions avec structure.",
+    "strengths": [
+      "Une base forte en relation.",
+      "Une capacité naturelle à répondre au besoin de soutien.",
+      "Un second appui en structure qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "respect",
+      "lien",
+      "solidarité",
+      "équilibre humain",
+      "stabilité"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à préserver le lien et à éviter la cassure.",
+      "En stress modéré, vous pouvez trop porter les autres ou vous oublier.",
+      "En stress élevé, vous absorbez les émotions, vous vous épuisez ou vous n’osez plus poser de limites."
+    ],
+    "stress_actions": [
+      "Nommer vos besoins avant de vouloir réparer ceux des autres.",
+      "Poser une limite claire sans culpabilité.",
+      "Différencier soutien, responsabilité partagée et sauvetage."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Vs"
+      ],
+      "less_compatible": [
+        "Cq",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Bv-Sp",
+    "name": "Animateur",
+    "dominant": "Bv",
+    "secondary": "Sp",
+    "description": "Le profil Animateur s’appuie d’abord sur une logique bienveillant : il crée du lien, écoute et protège la dynamique humaine. Cette énergie secondaire ajoute de la souplesse, de l’originalité et une capacité à ouvrir d’autres options. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant relation, tout en colorant vos décisions avec créativité.",
+    "strengths": [
+      "Une base forte en relation.",
+      "Une capacité naturelle à répondre au besoin de soutien.",
+      "Un second appui en créativité qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "respect",
+      "lien",
+      "solidarité",
+      "équilibre humain",
+      "nouveauté"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez à préserver le lien et à éviter la cassure.",
+      "En stress modéré, vous pouvez trop porter les autres ou vous oublier.",
+      "En stress élevé, vous absorbez les émotions, vous vous épuisez ou vous n’osez plus poser de limites."
+    ],
+    "stress_actions": [
+      "Nommer vos besoins avant de vouloir réparer ceux des autres.",
+      "Poser une limite claire sans culpabilité.",
+      "Différencier soutien, responsabilité partagée et sauvetage."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Gt",
+        "Vs"
+      ],
+      "less_compatible": [
+        "Cq",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Fb-Vs",
+    "name": "Chercheur",
+    "dominant": "Fb",
+    "secondary": "Vs",
+    "description": "Le profil Chercheur s’appuie d’abord sur une logique fiable : il observe, comprend et sécurise par la qualité du raisonnement. Cette énergie secondaire ajoute de la vision, du sens et une capacité à prendre de la hauteur. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant analyse, tout en colorant vos décisions avec projection.",
+    "strengths": [
+      "Une base forte en analyse.",
+      "Une capacité naturelle à répondre au besoin de rigueur.",
+      "Un second appui en projection qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "justesse",
+      "compréhension",
+      "qualité",
+      "fiabilité",
+      "innovation"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez davantage de précision et de compréhension.",
+      "En stress modéré, vous pouvez douter, vérifier beaucoup et retarder la décision.",
+      "En stress élevé, vous suranalysez, vous vous bloquez ou vous vous coupez de l’élan d’action."
+    ],
+    "stress_actions": [
+      "Choisir un seuil de preuve suffisant, pas parfait.",
+      "Décider sur la base de ce qui est déjà fiable.",
+      "Transformer l’analyse en hypothèse testable plutôt qu’en attente infinie."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Fb-Cq",
+    "name": "Optimiseur",
+    "dominant": "Fb",
+    "secondary": "Cq",
+    "description": "Le profil Optimiseur s’appuie d’abord sur une logique fiable : il observe, comprend et sécurise par la qualité du raisonnement. Cette énergie secondaire ajoute du mouvement, du courage décisionnel et un goût du passage à l’action. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant analyse, tout en colorant vos décisions avec action.",
+    "strengths": [
+      "Une base forte en analyse.",
+      "Une capacité naturelle à répondre au besoin de rigueur.",
+      "Un second appui en action qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "justesse",
+      "compréhension",
+      "qualité",
+      "fiabilité",
+      "défi"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez davantage de précision et de compréhension.",
+      "En stress modéré, vous pouvez douter, vérifier beaucoup et retarder la décision.",
+      "En stress élevé, vous suranalysez, vous vous bloquez ou vous vous coupez de l’élan d’action."
+    ],
+    "stress_actions": [
+      "Choisir un seuil de preuve suffisant, pas parfait.",
+      "Décider sur la base de ce qui est déjà fiable.",
+      "Transformer l’analyse en hypothèse testable plutôt qu’en attente infinie."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Fb-Bv",
+    "name": "Conseiller",
+    "dominant": "Fb",
+    "secondary": "Bv",
+    "description": "Le profil Conseiller s’appuie d’abord sur une logique fiable : il observe, comprend et sécurise par la qualité du raisonnement. Cette énergie secondaire ajoute de l’attention humaine, de l’écoute et le besoin de faire avancer sans casser le lien. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant analyse, tout en colorant vos décisions avec relation.",
+    "strengths": [
+      "Une base forte en analyse.",
+      "Une capacité naturelle à répondre au besoin de rigueur.",
+      "Un second appui en relation qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "justesse",
+      "compréhension",
+      "qualité",
+      "fiabilité",
+      "harmonie"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez davantage de précision et de compréhension.",
+      "En stress modéré, vous pouvez douter, vérifier beaucoup et retarder la décision.",
+      "En stress élevé, vous suranalysez, vous vous bloquez ou vous vous coupez de l’élan d’action."
+    ],
+    "stress_actions": [
+      "Choisir un seuil de preuve suffisant, pas parfait.",
+      "Décider sur la base de ce qui est déjà fiable.",
+      "Transformer l’analyse en hypothèse testable plutôt qu’en attente infinie."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Fb-Fb",
+    "name": "Expert",
+    "dominant": "Fb",
+    "secondary": "Fb",
+    "description": "Le profil Expert s’appuie d’abord sur une logique fiable : il observe, comprend et sécurise par la qualité du raisonnement. Cette énergie secondaire ajoute du discernement, de la précision et le souci de comprendre avant de conclure. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant analyse, tout en colorant vos décisions avec analyse.",
+    "strengths": [
+      "Une base forte en analyse.",
+      "Une capacité naturelle à répondre au besoin de rigueur.",
+      "Une signature très nette et cohérente autour de analyse.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "justesse",
+      "compréhension",
+      "qualité",
+      "fiabilité"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez davantage de précision et de compréhension.",
+      "En stress modéré, vous pouvez douter, vérifier beaucoup et retarder la décision.",
+      "En stress élevé, vous suranalysez, vous vous bloquez ou vous vous coupez de l’élan d’action."
+    ],
+    "stress_actions": [
+      "Choisir un seuil de preuve suffisant, pas parfait.",
+      "Décider sur la base de ce qui est déjà fiable.",
+      "Transformer l’analyse en hypothèse testable plutôt qu’en attente infinie."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Fb-Gt",
+    "name": "Ingénieur",
+    "dominant": "Fb",
+    "secondary": "Gt",
+    "description": "Le profil Ingénieur s’appuie d’abord sur une logique fiable : il observe, comprend et sécurise par la qualité du raisonnement. Cette énergie secondaire ajoute du cadre, de la méthode et une capacité à stabiliser. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant analyse, tout en colorant vos décisions avec structure.",
+    "strengths": [
+      "Une base forte en analyse.",
+      "Une capacité naturelle à répondre au besoin de rigueur.",
+      "Un second appui en structure qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "justesse",
+      "compréhension",
+      "qualité",
+      "fiabilité",
+      "stabilité"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez davantage de précision et de compréhension.",
+      "En stress modéré, vous pouvez douter, vérifier beaucoup et retarder la décision.",
+      "En stress élevé, vous suranalysez, vous vous bloquez ou vous vous coupez de l’élan d’action."
+    ],
+    "stress_actions": [
+      "Choisir un seuil de preuve suffisant, pas parfait.",
+      "Décider sur la base de ce qui est déjà fiable.",
+      "Transformer l’analyse en hypothèse testable plutôt qu’en attente infinie."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Fb-Sp",
+    "name": "Inventeur",
+    "dominant": "Fb",
+    "secondary": "Sp",
+    "description": "Le profil Inventeur s’appuie d’abord sur une logique fiable : il observe, comprend et sécurise par la qualité du raisonnement. Cette énergie secondaire ajoute de la souplesse, de l’originalité et une capacité à ouvrir d’autres options. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant analyse, tout en colorant vos décisions avec créativité.",
+    "strengths": [
+      "Une base forte en analyse.",
+      "Une capacité naturelle à répondre au besoin de rigueur.",
+      "Un second appui en créativité qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "justesse",
+      "compréhension",
+      "qualité",
+      "fiabilité",
+      "nouveauté"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez davantage de précision et de compréhension.",
+      "En stress modéré, vous pouvez douter, vérifier beaucoup et retarder la décision.",
+      "En stress élevé, vous suranalysez, vous vous bloquez ou vous vous coupez de l’élan d’action."
+    ],
+    "stress_actions": [
+      "Choisir un seuil de preuve suffisant, pas parfait.",
+      "Décider sur la base de ce qui est déjà fiable.",
+      "Transformer l’analyse en hypothèse testable plutôt qu’en attente infinie."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Gt"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Cq"
+      ]
+    }
+  },
+  {
+    "code": "Gt-Vs",
+    "name": "Planificateur",
+    "dominant": "Gt",
+    "secondary": "Vs",
+    "description": "Le profil Planificateur s’appuie d’abord sur une logique garant : il cadre, organise et fiabilise l’exécution dans la durée. Cette énergie secondaire ajoute de la vision, du sens et une capacité à prendre de la hauteur. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant structure, tout en colorant vos décisions avec projection.",
+    "strengths": [
+      "Une base forte en structure.",
+      "Une capacité naturelle à répondre au besoin de sécurité.",
+      "Un second appui en projection qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "stabilité",
+      "responsabilité",
+      "ordre",
+      "sécurité",
+      "innovation"
+    ],
+    "stress_stages": [
+      "En tension légère, vous revenez naturellement vers le cadre et les repères connus.",
+      "En stress modéré, vous pouvez vous rigidifier sur la méthode, les règles ou le plan.",
+      "En stress élevé, vous contrôlez davantage, vous supportez mal l’imprévu et vous perdez en souplesse."
+    ],
+    "stress_actions": [
+      "Conserver le cadre utile et lâcher le contrôle inutile.",
+      "Préciser ce qui est non négociable et ce qui peut s’adapter.",
+      "Introduire une marge d’ajustement au lieu de tout verrouiller."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Vs"
+      ]
+    }
+  },
+  {
+    "code": "Gt-Cq",
+    "name": "Coordinateur",
+    "dominant": "Gt",
+    "secondary": "Cq",
+    "description": "Le profil Coordinateur s’appuie d’abord sur une logique garant : il cadre, organise et fiabilise l’exécution dans la durée. Cette énergie secondaire ajoute du mouvement, du courage décisionnel et un goût du passage à l’action. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant structure, tout en colorant vos décisions avec action.",
+    "strengths": [
+      "Une base forte en structure.",
+      "Une capacité naturelle à répondre au besoin de sécurité.",
+      "Un second appui en action qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "stabilité",
+      "responsabilité",
+      "ordre",
+      "sécurité",
+      "défi"
+    ],
+    "stress_stages": [
+      "En tension légère, vous revenez naturellement vers le cadre et les repères connus.",
+      "En stress modéré, vous pouvez vous rigidifier sur la méthode, les règles ou le plan.",
+      "En stress élevé, vous contrôlez davantage, vous supportez mal l’imprévu et vous perdez en souplesse."
+    ],
+    "stress_actions": [
+      "Conserver le cadre utile et lâcher le contrôle inutile.",
+      "Préciser ce qui est non négociable et ce qui peut s’adapter.",
+      "Introduire une marge d’ajustement au lieu de tout verrouiller."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Vs"
+      ]
+    }
+  },
+  {
+    "code": "Gt-Bv",
+    "name": "Protecteur",
+    "dominant": "Gt",
+    "secondary": "Bv",
+    "description": "Le profil Protecteur s’appuie d’abord sur une logique garant : il cadre, organise et fiabilise l’exécution dans la durée. Cette énergie secondaire ajoute de l’attention humaine, de l’écoute et le besoin de faire avancer sans casser le lien. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant structure, tout en colorant vos décisions avec relation.",
+    "strengths": [
+      "Une base forte en structure.",
+      "Une capacité naturelle à répondre au besoin de sécurité.",
+      "Un second appui en relation qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "stabilité",
+      "responsabilité",
+      "ordre",
+      "sécurité",
+      "harmonie"
+    ],
+    "stress_stages": [
+      "En tension légère, vous revenez naturellement vers le cadre et les repères connus.",
+      "En stress modéré, vous pouvez vous rigidifier sur la méthode, les règles ou le plan.",
+      "En stress élevé, vous contrôlez davantage, vous supportez mal l’imprévu et vous perdez en souplesse."
+    ],
+    "stress_actions": [
+      "Conserver le cadre utile et lâcher le contrôle inutile.",
+      "Préciser ce qui est non négociable et ce qui peut s’adapter.",
+      "Introduire une marge d’ajustement au lieu de tout verrouiller."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Vs"
+      ]
+    }
+  },
+  {
+    "code": "Gt-Fb",
+    "name": "Contrôleur",
+    "dominant": "Gt",
+    "secondary": "Fb",
+    "description": "Le profil Contrôleur s’appuie d’abord sur une logique garant : il cadre, organise et fiabilise l’exécution dans la durée. Cette énergie secondaire ajoute du discernement, de la précision et le souci de comprendre avant de conclure. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant structure, tout en colorant vos décisions avec analyse.",
+    "strengths": [
+      "Une base forte en structure.",
+      "Une capacité naturelle à répondre au besoin de sécurité.",
+      "Un second appui en analyse qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "stabilité",
+      "responsabilité",
+      "ordre",
+      "sécurité",
+      "justesse"
+    ],
+    "stress_stages": [
+      "En tension légère, vous revenez naturellement vers le cadre et les repères connus.",
+      "En stress modéré, vous pouvez vous rigidifier sur la méthode, les règles ou le plan.",
+      "En stress élevé, vous contrôlez davantage, vous supportez mal l’imprévu et vous perdez en souplesse."
+    ],
+    "stress_actions": [
+      "Conserver le cadre utile et lâcher le contrôle inutile.",
+      "Préciser ce qui est non négociable et ce qui peut s’adapter.",
+      "Introduire une marge d’ajustement au lieu de tout verrouiller."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Vs"
+      ]
+    }
+  },
+  {
+    "code": "Gt-Gt",
+    "name": "Gardien",
+    "dominant": "Gt",
+    "secondary": "Gt",
+    "description": "Le profil Gardien s’appuie d’abord sur une logique garant : il cadre, organise et fiabilise l’exécution dans la durée. Cette énergie secondaire ajoute du cadre, de la méthode et une capacité à stabiliser. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant structure, tout en colorant vos décisions avec structure.",
+    "strengths": [
+      "Une base forte en structure.",
+      "Une capacité naturelle à répondre au besoin de sécurité.",
+      "Une signature très nette et cohérente autour de structure.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "stabilité",
+      "responsabilité",
+      "ordre",
+      "sécurité"
+    ],
+    "stress_stages": [
+      "En tension légère, vous revenez naturellement vers le cadre et les repères connus.",
+      "En stress modéré, vous pouvez vous rigidifier sur la méthode, les règles ou le plan.",
+      "En stress élevé, vous contrôlez davantage, vous supportez mal l’imprévu et vous perdez en souplesse."
+    ],
+    "stress_actions": [
+      "Conserver le cadre utile et lâcher le contrôle inutile.",
+      "Préciser ce qui est non négociable et ce qui peut s’adapter.",
+      "Introduire une marge d’ajustement au lieu de tout verrouiller."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Vs"
+      ]
+    }
+  },
+  {
+    "code": "Gt-Sp",
+    "name": "Organisateur créatif",
+    "dominant": "Gt",
+    "secondary": "Sp",
+    "description": "Le profil Organisateur créatif s’appuie d’abord sur une logique garant : il cadre, organise et fiabilise l’exécution dans la durée. Cette énergie secondaire ajoute de la souplesse, de l’originalité et une capacité à ouvrir d’autres options. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant structure, tout en colorant vos décisions avec créativité.",
+    "strengths": [
+      "Une base forte en structure.",
+      "Une capacité naturelle à répondre au besoin de sécurité.",
+      "Un second appui en créativité qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "stabilité",
+      "responsabilité",
+      "ordre",
+      "sécurité",
+      "nouveauté"
+    ],
+    "stress_stages": [
+      "En tension légère, vous revenez naturellement vers le cadre et les repères connus.",
+      "En stress modéré, vous pouvez vous rigidifier sur la méthode, les règles ou le plan.",
+      "En stress élevé, vous contrôlez davantage, vous supportez mal l’imprévu et vous perdez en souplesse."
+    ],
+    "stress_actions": [
+      "Conserver le cadre utile et lâcher le contrôle inutile.",
+      "Préciser ce qui est non négociable et ce qui peut s’adapter.",
+      "Introduire une marge d’ajustement au lieu de tout verrouiller."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Fb",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Sp",
+        "Vs"
+      ]
+    }
+  },
+  {
+    "code": "Sp-Vs",
+    "name": "Innovateur",
+    "dominant": "Sp",
+    "secondary": "Vs",
+    "description": "Le profil Innovateur s’appuie d’abord sur une logique spontané : il explore, improvise et ouvre des possibilités nouvelles. Cette énergie secondaire ajoute de la vision, du sens et une capacité à prendre de la hauteur. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant créativité, tout en colorant vos décisions avec projection.",
+    "strengths": [
+      "Une base forte en créativité.",
+      "Une capacité naturelle à répondre au besoin de liberté.",
+      "Un second appui en projection qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "expérimentation",
+      "innovation"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez de l’air, du mouvement et des alternatives.",
+      "En stress modéré, vous pouvez vous disperser, changer trop vite de piste ou éviter la contrainte.",
+      "En stress élevé, vous fuyez l’enfermement, abandonnez trop tôt ou perdez le fil."
+    ],
+    "stress_actions": [
+      "Revenir à une seule idée à la fois.",
+      "Mettre une contrainte simple pour canaliser la créativité.",
+      "Aller jusqu’au bout d’un test avant d’en ouvrir trois autres."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Sp-Cq",
+    "name": "Aventurier",
+    "dominant": "Sp",
+    "secondary": "Cq",
+    "description": "Le profil Aventurier s’appuie d’abord sur une logique spontané : il explore, improvise et ouvre des possibilités nouvelles. Cette énergie secondaire ajoute du mouvement, du courage décisionnel et un goût du passage à l’action. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant créativité, tout en colorant vos décisions avec action.",
+    "strengths": [
+      "Une base forte en créativité.",
+      "Une capacité naturelle à répondre au besoin de liberté.",
+      "Un second appui en action qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "expérimentation",
+      "défi"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez de l’air, du mouvement et des alternatives.",
+      "En stress modéré, vous pouvez vous disperser, changer trop vite de piste ou éviter la contrainte.",
+      "En stress élevé, vous fuyez l’enfermement, abandonnez trop tôt ou perdez le fil."
+    ],
+    "stress_actions": [
+      "Revenir à une seule idée à la fois.",
+      "Mettre une contrainte simple pour canaliser la créativité.",
+      "Aller jusqu’au bout d’un test avant d’en ouvrir trois autres."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Sp-Bv",
+    "name": "Dynamiseur",
+    "dominant": "Sp",
+    "secondary": "Bv",
+    "description": "Le profil Dynamiseur s’appuie d’abord sur une logique spontané : il explore, improvise et ouvre des possibilités nouvelles. Cette énergie secondaire ajoute de l’attention humaine, de l’écoute et le besoin de faire avancer sans casser le lien. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant créativité, tout en colorant vos décisions avec relation.",
+    "strengths": [
+      "Une base forte en créativité.",
+      "Une capacité naturelle à répondre au besoin de liberté.",
+      "Un second appui en relation qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "expérimentation",
+      "harmonie"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez de l’air, du mouvement et des alternatives.",
+      "En stress modéré, vous pouvez vous disperser, changer trop vite de piste ou éviter la contrainte.",
+      "En stress élevé, vous fuyez l’enfermement, abandonnez trop tôt ou perdez le fil."
+    ],
+    "stress_actions": [
+      "Revenir à une seule idée à la fois.",
+      "Mettre une contrainte simple pour canaliser la créativité.",
+      "Aller jusqu’au bout d’un test avant d’en ouvrir trois autres."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Sp-Fb",
+    "name": "Expérimentateur",
+    "dominant": "Sp",
+    "secondary": "Fb",
+    "description": "Le profil Expérimentateur s’appuie d’abord sur une logique spontané : il explore, improvise et ouvre des possibilités nouvelles. Cette énergie secondaire ajoute du discernement, de la précision et le souci de comprendre avant de conclure. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant créativité, tout en colorant vos décisions avec analyse.",
+    "strengths": [
+      "Une base forte en créativité.",
+      "Une capacité naturelle à répondre au besoin de liberté.",
+      "Un second appui en analyse qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "expérimentation",
+      "justesse"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez de l’air, du mouvement et des alternatives.",
+      "En stress modéré, vous pouvez vous disperser, changer trop vite de piste ou éviter la contrainte.",
+      "En stress élevé, vous fuyez l’enfermement, abandonnez trop tôt ou perdez le fil."
+    ],
+    "stress_actions": [
+      "Revenir à une seule idée à la fois.",
+      "Mettre une contrainte simple pour canaliser la créativité.",
+      "Aller jusqu’au bout d’un test avant d’en ouvrir trois autres."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Sp-Gt",
+    "name": "Réinventeur",
+    "dominant": "Sp",
+    "secondary": "Gt",
+    "description": "Le profil Réinventeur s’appuie d’abord sur une logique spontané : il explore, improvise et ouvre des possibilités nouvelles. Cette énergie secondaire ajoute du cadre, de la méthode et une capacité à stabiliser. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant créativité, tout en colorant vos décisions avec structure.",
+    "strengths": [
+      "Une base forte en créativité.",
+      "Une capacité naturelle à répondre au besoin de liberté.",
+      "Un second appui en structure qui enrichit votre style.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "expérimentation",
+      "stabilité"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez de l’air, du mouvement et des alternatives.",
+      "En stress modéré, vous pouvez vous disperser, changer trop vite de piste ou éviter la contrainte.",
+      "En stress élevé, vous fuyez l’enfermement, abandonnez trop tôt ou perdez le fil."
+    ],
+    "stress_actions": [
+      "Revenir à une seule idée à la fois.",
+      "Mettre une contrainte simple pour canaliser la créativité.",
+      "Aller jusqu’au bout d’un test avant d’en ouvrir trois autres."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Fb"
+      ]
+    }
+  },
+  {
+    "code": "Sp-Sp",
+    "name": "Créatif",
+    "dominant": "Sp",
+    "secondary": "Sp",
+    "description": "Le profil Créatif s’appuie d’abord sur une logique spontané : il explore, improvise et ouvre des possibilités nouvelles. Cette énergie secondaire ajoute de la souplesse, de l’originalité et une capacité à ouvrir d’autres options. Dans la vie quotidienne, cela produit un style reconnaissable : vous avancez naturellement en privilégiant créativité, tout en colorant vos décisions avec créativité.",
+    "strengths": [
+      "Une base forte en créativité.",
+      "Une capacité naturelle à répondre au besoin de liberté.",
+      "Une signature très nette et cohérente autour de créativité.",
+      "Une façon d’agir lisible pour l’entourage lorsque le cadre est clair."
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "expérimentation"
+    ],
+    "stress_stages": [
+      "En tension légère, vous cherchez de l’air, du mouvement et des alternatives.",
+      "En stress modéré, vous pouvez vous disperser, changer trop vite de piste ou éviter la contrainte.",
+      "En stress élevé, vous fuyez l’enfermement, abandonnez trop tôt ou perdez le fil."
+    ],
+    "stress_actions": [
+      "Revenir à une seule idée à la fois.",
+      "Mettre une contrainte simple pour canaliser la créativité.",
+      "Aller jusqu’au bout d’un test avant d’en ouvrir trois autres."
+    ],
+    "compatibility": {
+      "most_compatible": [
+        "Vs",
+        "Bv"
+      ],
+      "less_compatible": [
+        "Gt",
+        "Fb"
+      ]
+    }
+  }
+]

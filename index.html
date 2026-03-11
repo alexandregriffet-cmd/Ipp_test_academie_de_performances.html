@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IPP A4P – Test prêt GitHub</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <h1>IPP A4P</h1>
+      <p>Inventaire des Profils de Performance – version GitHub prête à tester</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="intro" class="card">
+      <h2>Avant de commencer</h2>
+      <p>Ce test explore vos préférences de fonctionnement mental dans la vie quotidienne : action, projection, relation, analyse, structure et créativité. Il ne s’agit pas d’un diagnostic médical. Répondez spontanément, en choisissant la réaction qui vous ressemble le plus.</p>
+      <div class="grid two">
+        <label>Prénom ou pseudo
+          <input id="username" type="text" placeholder="Alexandre" />
+        </label>
+        <label>Contexte
+          <select id="context">
+            <option value="sport">Sport</option>
+            <option value="etudes">Études</option>
+            <option value="travail">Travail</option>
+            <option value="general" selected>Vie quotidienne</option>
+          </select>
+        </label>
+      </div>
+      <button id="startBtn" class="btn">Commencer le test</button>
+    </section>
+
+    <section id="testSection" class="hidden">
+      <div class="card sticky">
+        <div class="progress-row">
+          <div>
+            <strong id="progressLabel">Question 1 / 60</strong>
+            <div class="sub">Choisissez une seule réponse par vignette.</div>
+          </div>
+          <div class="progress">
+            <div id="progressBar"></div>
+          </div>
+        </div>
+      </div>
+
+      <form id="questionsForm"></form>
+
+      <section class="card">
+        <h2>Énergie de phase actuelle</h2>
+        <p>Ces affirmations mesurent votre état actuel sous pression ou dans votre phase de vie du moment.</p>
+        <div id="phaseForm"></div>
+      </section>
+
+      <section class="actions">
+        <button id="calcBtn" class="btn">Générer le rapport</button>
+      </section>
+    </section>
+
+    <section id="reportSection" class="hidden"></section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

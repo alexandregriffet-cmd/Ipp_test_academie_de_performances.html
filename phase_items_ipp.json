@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "k": "Vs",
+    "text": "En ce moment, je pense beaucoup à l’avenir et à ce que tout cela pourrait devenir.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 2,
+    "k": "Vs",
+    "text": "Quand je suis sous pression, j’ai tendance à pousser ma vision plus fort que d’habitude.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 3,
+    "k": "Cq",
+    "text": "En ce moment, j’ai besoin d’agir vite pour me sentir bien.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 4,
+    "k": "Cq",
+    "text": "Quand la tension monte, je peux devenir impatient ou plus direct que prévu.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 5,
+    "k": "Bv",
+    "text": "En ce moment, je suis très attentif à l’ambiance et aux réactions des autres.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 6,
+    "k": "Bv",
+    "text": "Sous stress, je peux absorber les émotions du groupe ou vouloir réparer tout le monde.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 7,
+    "k": "Fb",
+    "text": "En ce moment, j’ai besoin de comprendre précisément avant de me sentir en sécurité.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 8,
+    "k": "Fb",
+    "text": "Sous pression, je vérifie beaucoup et je peux suranalyser.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 9,
+    "k": "Gt",
+    "text": "En ce moment, j’ai besoin de cadre, de repères et d’organisation.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 10,
+    "k": "Gt",
+    "text": "Sous stress, je peux me raidir sur les règles ou le plan.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 11,
+    "k": "Sp",
+    "text": "En ce moment, j’ai besoin d’air, de variété et de liberté.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  },
+  {
+    "id": 12,
+    "k": "Sp",
+    "text": "Sous pression, je peux papillonner d’une piste à l’autre pour ne pas me sentir enfermé.",
+    "scale": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ]
+  }
+]
